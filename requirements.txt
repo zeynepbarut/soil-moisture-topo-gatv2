@@ -5,3 +5,9 @@ xgboost==3.3.0
 pandas==2.2.2
 numpy==2.0.2
 networkx==3.6.1
+rasterio
+xarray
+netCDF4
+matplotlib
+seaborn
+scipy
