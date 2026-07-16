@@ -61,7 +61,7 @@ Full methodological details (spatial-holdout partitioning, graph construction, m
 ## Citations
 If you use this code or the derived results, please cite:
 
-Barut, Z. (2026). Topo-GATv2-Concat: Spatially Transferable Soil Moisture Estimation — Code and Analysis Scripts (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.21243364
+Barut, Z. (2026). Topo-GATv2-Concat: Spatially Transferable Soil Moisture Estimation — Code and Analysis Scripts (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.21393209
 
 Please also cite the original data sources listed under Dataset Information above.
 
